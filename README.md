@@ -17,4 +17,4 @@
 
 ## Репозиторий
 
-https://github.com/S4KHAR/ono-tebe-nado
+https://github.com/S4KHAR/ono-tebe-nado-ad
